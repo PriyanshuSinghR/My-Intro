@@ -19,7 +19,7 @@ function play(question, answer) {
 
 var questions = [{
   question: "What is my age? ",
-  answer: "19"
+  answer: "21"
 },
 {
   question: "Where do i live? ",
@@ -47,10 +47,10 @@ var questions = [{
   question: `Which is my favourite Sport?
       Cricket
       Tennis
-      Vollyball
+      Volleyball
       Basketball
 >` ,
-  answer: "Vollyball"
+  answer: "Volleyball"
 }]
 
 for(var i=0; i<questions.length; i++) {
