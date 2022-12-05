@@ -19,6 +19,9 @@
 
 [Live Project](https://repl.it/@OVERLORDWRATH/My-Intro?embed=1&amp;output=1)
 
+## Screenshots
+
+![myIntro](https://user-images.githubusercontent.com/52795506/205549500-96000079-f644-4077-8a75-487aaca5d731.jpg)
 
 ## Connect with me
 
